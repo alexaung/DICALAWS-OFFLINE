@@ -27,7 +27,7 @@ class MyanmarView extends Component {  // eslint-disable-line
     this.state = {
             page: 1,
             pageCount: 1,
-            filepath: RNFS.ExternalStorageDirectoryPath  + "/com.dicalaws/pdf/en/"+this.props.id+".pdf"
+            filepath: RNFS.ExternalStorageDirectoryPath  + "/com.dicalaws/pdf/mm/"+this.props.id+".pdf"
         };
         //this.pdfView = null;
   }

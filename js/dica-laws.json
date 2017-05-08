@@ -1,314 +1,805 @@
 {
   "enlaws" : [ {
-    "date" : "02/11/2012",
-    "id" : 0,
-    "order": 30,
-    "title" : "The Foreign Investment Law",
-    "type" : "Law",
+    "order" : "1",
+    "date" : "1/7/16",
+    "id" : 27,
+    "title" : "Myanmar Economic Policies",
+    "type" : "Policies",
     "url" : "https://dica-laws.firebaseapp.com/en/0/index.html"
   }, {
-    "date" : "31/01/2013",
-    "id" : 1,
-    "order": 2,
-    "title" : "Notification No 11/2013",
-    "type" : "Rule",
-    "url" : "https://dica-laws.firebaseapp.com/en/1/index.html"
-  }, {
-    "date" : "01/03/2014",
-    "id" : 2,
-    "order": 3,
-    "title" : "The Study on Long-term Foreign Direct Investment Promotion Plan in Myanmar",
-    "type" : "Rule",
-    "url" : "https://dica-laws.firebaseapp.com/en/2/index.html"
-  }, {
-    "date" : "01/03/2015",
-    "id" : 3,
-    "order": 4,
-    "title" : "DRAFT MYANMAR COMPANIES LAW",
-    "type" : "Rule",
-    "url" : "https://dica-laws.firebaseapp.com/en/3/index.html"
-  }, {
-    "date" : "23/01/2014",
-    "id" : 4,
-    "order": 5,
-    "title" : "Myanmar Special Economic Zone Law, 2014",
-    "type" : "Rule",
-    "url" : "https://dica-laws.firebaseapp.com/en/4/index.html"
-  }, {
-    "date" : "14/08/2014",
-    "id" : 5,
-    "order": 6,
-    "title" : "Notification No. 49/2014",
-    "type" : "Rule",
-    "url" : "https://dica-laws.firebaseapp.com/en/5/index.html"
-  }, {
-    "date" : "14/08/2014",
-    "id" : 6,
-    "order": 7,
-    "title" : "Notification No. 50/2014",
-    "type" : "Rule",
-    "url" : "https://dica-laws.firebaseapp.com/en/6/index.html"
-  }, {
-    "date" : "19/08/2014",
-    "id" : 7,
-    "order": 8,
-    "title" : "Notification No. 51/2014",
-    "type" : "Rule",
-    "url" : "https://dica-laws.firebaseapp.com/en/7/index.html"
-  }, {
-    "date" : "01/01/2014",
-    "id" : 8,
-    "title" : "MYANMAR INVESTMENT GUID 2014",
-    "type" : "Rule",
-    "url" : "https://dica-laws.firebaseapp.com/en/8/index.html"
-  }, {
-    "date" : "01/01/2014",
-    "id" : 9,
-    "order": 10,
-    "title" : "OECD Investment Policy Reviews:Myanmar 2014",
-    "type" : "Rule",
-    "url" : "https://dica-laws.firebaseapp.com/en/9/index.html"
-  }, {
-    "date" : "01/01/2014",
-    "id" : 10,
-    "title" : "THE LEGAL TEXTS - THE RESULTS OF THE URUGUAY ROUNDOF MULTILATERAL TRADE NEGOTIATIONS",
-    "type" : "Rule",
-    "url" : "https://dica-laws.firebaseapp.com/en/10/index.html"
-  }, {
-    "date" : "01/01/2008",
-    "id" : 11,
-    "order": 12,
-    "title" : "OECD Benchmark Definition of Foreign Direct Investment FOURTH EDITION 2008",
-    "type" : "Rule",
-    "url" : "https://dica-laws.firebaseapp.com/en/11/index.html"
-  }, {
-    "date" : "01/01/2009",
-    "id" : 12,
-    "order": 13,
-    "title" : "INTERNATIONAL MONETARY FUND - Balance of Payments and International Investment Position Manual (Sixth Edition (BPM6))",
-    "type" : "Rule",
-    "url" : "https://dica-laws.firebaseapp.com/en/12/index.html"
-  }, {
-    "date" : "01/01/2008",
-    "id" : 13,
-    "order": 14,
-    "title" : "United Nations - International Standard Industrial Classification of All Economic Activities (ISIC), Rev.4",
-    "type" : "Rule",
-    "url" : "https://dica-laws.firebaseapp.com/en/13/index.html"
-  }, {
-    "date" : "01/01/2015",
-    "id" : 14,
-    "order": 15,
-    "title" : "United Nations - Central Product Classification (CPC) Version 2.1",
-    "type" : "Rule",
-    "url" : "https://dica-laws.firebaseapp.com/en/14/index.html"
-  }, {
-    "date" : "01/11/2013",
-    "id" : 15,
-    "order": 16,
-    "title" : "Myanmar Comprehensive Development Vision (MCDV)",
-    "type" : "Rule",
-    "url" : "https://dica-laws.firebaseapp.com/en/15/index.html"
-  }, {
-    "date" : "01/11/2013",
-    "id" : 16,
-    "order": 17,
-    "title" : "Constitution of the Republic of the Union of Myanmar (2008)",
-    "type" : "Constitution",
-    "url" : "https://dica-laws.firebaseapp.com/en/16/index.html"
-  }, {
-    "date" : "01/11/1957",
-    "id" : 17,
-    "order": 18,
-    "title" : "THE BURMA COMPANIES REGULATIONS, 1957",
-    "type" : "Regulation",
-    "url" : "https://dica-laws.firebaseapp.com/en/17/index.html"
-  }, {
-    "date" : "10/11/1950",
-    "id" : 18,
-    "order": 19,
-    "title" : "SPECIAL COMPANY ACT. [Act No. 54 of 1950]",
-    "type" : "Law",
-    "url" : "https://dica-laws.firebaseapp.com/en/18/index.html"
-  }, {
-    "date" : "10/04/1914",
-    "id" : 19,
-    "order": 20,
-    "title" : "THE BURMA COMPANIES ACT [ INDIA ACT VII, 1913]",
-    "type" : "Law",
-    "url" : "https://dica-laws.firebaseapp.com/en/19/index.html"
-  }, {
-    "date" : "23/10/1940",
-    "id" : 20,
-    "order": 21,
-    "title" : "THE BURMA COMPANIES RULES 1940",
-    "type" : "Law",
-    "url" : "https://dica-laws.firebaseapp.com/en/20/index.html"
-  }, {
-    "date" : "23/10/1940",
-    "id" : 21,
-    "order": 22,
-    "title" : "ASEAN COMPREHENSIVE INVESTMENT AGREEMENT",
-    "type" : "Agreement",
-    "url" : "https://dica-laws.firebaseapp.com/en/21/index.html"
-  }, {
-    "date" : "26/02/2009",
-    "id" : 22,
-    "order": 23,
-    "title" : "PROTOCOL TO AMEND THE ASEAN COMPREHENSIVE INVESTMENT AGREMENT",
-    "type" : "Agreement",
-    "url" : "https://dica-laws.firebaseapp.com/en/22/index.html"
-  }, {
-    "date" : "18/10/2016",
-    "id" : 23,
-    "order": 24,
-    "title" : "Myanmar Investment Law (Draft)",
-    "type" : "Law",
-    "url" : "https://dica-laws.firebaseapp.com/en/23/index.html"
-  }, {
-    "date" : "01/03/2016",
-    "id" : 24,
-    "order": 25,
-    "title" : "Myanmar Indicative Private Sector Development Framework and Action Plan",
-    "type" : "Law",
-    "url" : "https://dica-laws.firebaseapp.com/en/24/index.html"
-  }, {
-    "date" : "01/03/2016",
-    "id" : 25,
-    "order": 26,
-    "title" : "Financing Infrastructure Development and Public-Private-Partnership (PPP) Framework for Myanmar",
-    "type" : "Law",
-    "url" : "https://dica-laws.firebaseapp.com/en/25/index.html"
-  }, {
-    "date" : "01/03/2016",
-    "id" : 26,
-    "order": 27,
-    "title" : "Economic Policies of the State",
-    "type" : "Policy",
-    "url" : "https://dica-laws.firebaseapp.com/en/26/index.html"
-  }, {
-    "date" : "01/03/2016",
-    "id" : 27,
-    "order": 28,
-    "title" : "Investment Policy",
-    "type" : "Policy",
-    "url" : "https://dica-laws.firebaseapp.com/en/27/index.html"
-  }, {
-    "date" : "01/03/2016",
+    "order" : "2",
+    "date" : "1/8/16",
     "id" : 28,
-    "order": 29,
-    "title" : "OECD Policy Framework for Investment (2015 EDITION)",
-    "type" : "Policy",
-    "url" : "https://dica-laws.firebaseapp.com/en/28/index.html"
+    "title" : "​Investment Policies",
+    "type" : "Policies",
+    "url" : "https://dica-laws.firebaseapp.com/mm/0/index.html"
   }, {
-    "date" : "27/08/2015",
-    "id" : 29,
-    "order": 1,
-    "title" : "Notification No. (1 / 2015) ",
-    "type" : "Policy",
-    "url" : "https://dica-laws.firebaseapp.com/en/29/index.html"
-  }],
-  "mmlaws" : [ {
-    "date" : "01/01/2013",
-    "id" : 0,
-    "title" : "ကြေညာချက်အမှတ် ၁/၂၀၁၃",
+    "order" : "3",
+    "date" : "18/10/16",
+    "id" : 24,
+    "title" : "​Myanmar Investment Law",
+    "type" : "Law",
+    "url" : "https://dica-laws.firebaseapp.com/mm/0/index.html"
+  }, {
+    "order" : "4",
+    "date" : "30/3/17",
+    "id" : 50,
+    "title" : "​Myanmar Investment Rule",
+    "type" : "Rule",
+    "url" : "https://dica-laws.firebaseapp.com/mm/0/index.html"
+  }, {
+    "order" : "5",
+    "date" : "22/2/17",
+    "id" : 54,
+    "title" : "Notification No. (10/2017)",
     "type" : "Notification",
     "url" : "https://dica-laws.firebaseapp.com/mm/0/index.html"
   }, {
-    "date" : "01/08/2014",
-    "id" : 1,
-    "title" : "အမိန့်ကြော်ညာစာ အမှတ် ၅၁/၂၀၁၄",
+    "order" : "6",
+    "date" : "3/3/17",
+    "id" : 53,
+    "title" : "​Notification No. (11/2017)",
     "type" : "Notification",
+    "url" : "https://dica-laws.firebaseapp.com/mm/0/index.html"
+  }, {
+    "order" : "7",
+    "date" : "1/4/17",
+    "id" : 51,
+    "title" : "Notification No. (13/2017)​",
+    "type" : "Notification",
+    "url" : "https://dica-laws.firebaseapp.com/mm/0/index.html"
+  }, {
+    "order" : "8",
+    "date" : "10/4/17",
+    "id" : 22,
+    "title" : "​Notification No. (15/2017)",
+    "type" : "Notification",
+    "url" : "https://dica-laws.firebaseapp.com/mm/0/index.html"
+  }, {
+    "order" : "9",
+    "date" : "",
+    "id" : 31,
+    "title" : "Form (1)",
+    "type" : "",
+    "url" : "https://dica-laws.firebaseapp.com/mm/0/index.html"
+  }, {
+    "order" : "10",
+    "date" : "",
+    "id" : 32,
+    "title" : "​Form (2)",
+    "type" : "",
+    "url" : "https://dica-laws.firebaseapp.com/mm/0/index.html"
+  }, {
+    "order" : "11",
+    "date" : "",
+    "id" : 33,
+    "title" : "​Form (3)",
+    "type" : "",
+    "url" : "https://dica-laws.firebaseapp.com/mm/0/index.html"
+  }, {
+    "order" : "12",
+    "date" : "",
+    "id" : 34,
+    "title" : "Form (4- A)​",
+    "type" : "",
+    "url" : "https://dica-laws.firebaseapp.com/mm/0/index.html"
+  }, {
+    "order" : "13",
+    "date" : "",
+    "id" : 35,
+    "title" : "​Form (4-B)",
+    "type" : "",
+    "url" : "https://dica-laws.firebaseapp.com/mm/0/index.html"
+  }, {
+    "order" : "14",
+    "date" : "",
+    "id" : 36,
+    "title" : "​Form (5-A)",
+    "type" : "",
+    "url" : "https://dica-laws.firebaseapp.com/mm/0/index.html"
+  }, {
+    "order" : "15",
+    "date" : "",
+    "id" : 37,
+    "title" : "​Form (5-B)",
+    "type" : "",
+    "url" : "https://dica-laws.firebaseapp.com/mm/0/index.html"
+  }, {
+    "order" : "16",
+    "date" : "",
+    "id" : 38,
+    "title" : "​Form (6)",
+    "type" : "",
+    "url" : "https://dica-laws.firebaseapp.com/mm/0/index.html"
+  }, {
+    "order" : "17",
+    "date" : "",
+    "id" : 39,
+    "title" : "Form (7-A)​",
+    "type" : "",
+    "url" : "https://dica-laws.firebaseapp.com/mm/0/index.html"
+  }, {
+    "order" : "18",
+    "date" : "",
+    "id" : 40,
+    "title" : "​Form (7-B)",
+    "type" : "",
+    "url" : "https://dica-laws.firebaseapp.com/mm/0/index.html"
+  }, {
+    "order" : "19",
+    "date" : "",
+    "id" : 41,
+    "title" : "​Form (8)",
+    "type" : "",
+    "url" : "https://dica-laws.firebaseapp.com/mm/0/index.html"
+  }, {
+    "order" : "20",
+    "date" : "",
+    "id" : 42,
+    "title" : "​",
+    "type" : "Form (9)",
+    "url" : "https://dica-laws.firebaseapp.com/mm/0/index.html"
+  }, {
+    "order" : "21",
+    "date" : "",
+    "id" : 43,
+    "title" : "​Form (10)",
+    "type" : "",
+    "url" : "https://dica-laws.firebaseapp.com/mm/0/index.html"
+  }, {
+    "order" : "22",
+    "date" : "",
+    "id" : 44,
+    "title" : "​Form (11)",
+    "type" : "",
+    "url" : "https://dica-laws.firebaseapp.com/mm/0/index.html"
+  }, {
+    "order" : "23",
+    "date" : "",
+    "id" : 45,
+    "title" : "​Form (12-A)",
+    "type" : "",
+    "url" : "https://dica-laws.firebaseapp.com/mm/0/index.html"
+  }, {
+    "order" : "24",
+    "date" : "",
+    "id" : 46,
+    "title" : "​Form (12-B)",
+    "type" : "",
+    "url" : "https://dica-laws.firebaseapp.com/mm/0/index.html"
+  }, {
+    "order" : "25",
+    "date" : "",
+    "id" : 47,
+    "title" : "​Form (13)",
+    "type" : "",
+    "url" : "https://dica-laws.firebaseapp.com/mm/0/index.html"
+  }, {
+    "order" : "26",
+    "date" : "",
+    "id" : 48,
+    "title" : "​Form (14)",
+    "type" : "",
+    "url" : "https://dica-laws.firebaseapp.com/mm/0/index.html"
+  }, {
+    "order" : "27",
+    "date" : "",
+    "id" : 49,
+    "title" : "MIC Services Fees",
+    "type" : "",
+    "url" : "https://dica-laws.firebaseapp.com/mm/0/index.html"
+  }, {
+    "order" : "28",
+    "date" : "2/11/12",
+    "id" : 1,
+    "title" : "Foreign Investment Law​",
+    "type" : "Law",
+    "url" : "https://dica-laws.firebaseapp.com/mm/0/index.html"
+  }, {
+    "order" : "29",
+    "date" : "31/1/13",
+    "id" : 2,
+    "title" : "​Foreign Investment Rule",
+    "type" : "Rule",
+    "url" : "https://dica-laws.firebaseapp.com/mm/0/index.html"
+  }, {
+    "order" : "30",
+    "date" : "23/1/14",
+    "id" : 5,
+    "title" : "​Myanmar Special Economic Zone Law",
+    "type" : "Law",
+    "url" : "https://dica-laws.firebaseapp.com/mm/0/index.html"
+  }, {
+    "order" : "31",
+    "date" : "",
+    "id" : 4,
+    "title" : "Myanmar Company Law (Draft)",
+    "type" : "Law",
+    "url" : "https://dica-laws.firebaseapp.com/mm/0/index.html"
+  }, {
+    "order" : "32",
+    "date" : "1/4/14",
+    "id" : 18,
+    "title" : "​The Burma Company Act. (1914)",
+    "type" : "Law",
+    "url" : "https://dica-laws.firebaseapp.com/mm/0/index.html"
+  }, {
+    "order" : "33",
+    "date" : "23/10/40",
+    "id" : 19,
+    "title" : "The Burma Company Rules (1940)",
+    "type" : "Rule",
+    "url" : "https://dica-laws.firebaseapp.com/mm/0/index.html"
+  }, {
+    "order" : "34",
+    "date" : "1/1/57",
+    "id" : 17,
+    "title" : "Burma Companies Regulations, 1957",
+    "type" : "Law",
+    "url" : "https://dica-laws.firebaseapp.com/mm/0/index.html"
+  },
+  {
+    "order" : "35",
+    "date" : "1/1/08",
+    "id" : 16,
+    "title" : "Constitution of the Republic of the Union of Myanmar",
+    "type" : "Report",
+    "url" : "https://dica-laws.firebaseapp.com/mm/0/index.html"
+  } , {
+    "order" : "36",
+    "date" : "1/1/08",
+    "id" : 11,
+    "title" : "OECD Benchmark Definition of FDI (4th Edition 2008)",
+    "type" : "Report",
+    "url" : "https://dica-laws.firebaseapp.com/mm/0/index.html"
+  } , {
+    "order" : "37",
+    "date" : "1/1/09",
+    "id" : 12,
+    "title" : "Balance of Payment and International Investment Position Manual 6th Edition)",
+    "type" : "Report",
+    "url" : "https://dica-laws.firebaseapp.com/mm/0/index.html"
+  } , {
+    "order" : "38",
+    "date" : "1/3/14",
+    "id" : 3,
+    "title" : "FDIPP",
+    "type" : "Report",
+    "url" : "https://dica-laws.firebaseapp.com/mm/0/index.html"
+  } , {
+    "order" : "39",
+    "date" : "1/1/08",
+    "id" : 13,
+    "title" : "ISIC Code",
+    "type" : "Report",
+    "url" : "https://dica-laws.firebaseapp.com/mm/0/index.html"
+  } , {
+    "order" : "40",
+    "date" : "1/1/15",
+    "id" : 14,
+    "title" : "CPC Code",
+    "type" : "Report",
+    "url" : "https://dica-laws.firebaseapp.com/mm/0/index.html"
+  } , {
+    "order" : "41",
+    "date" : "1/11/13",
+    "id" : 15,
+    "title" : "MCDV",
+    "type" : "Report",
+    "url" : "https://dica-laws.firebaseapp.com/mm/0/index.html"
+  } , {
+    "order" : "42",
+    "date" : "26/2/09",
+    "id" : 20,
+    "title" : "ACIA ",
+    "type" : "Law",
+    "url" : "https://dica-laws.firebaseapp.com/mm/0/index.html"
+  } , {
+    "order" : "43",
+    "date" : "28/8/14",
+    "id" : 21,
+    "title" : "Protocol to Amend the ACIA ",
+    "type" : "Law",
+    "url" : "https://dica-laws.firebaseapp.com/mm/0/index.html"
+  } , {
+    "order" : "44",
+    "date" : "1/3/16",
+    "id" : 25,
+    "title" : "PSD Framework and Action Plan",
+    "type" : "Report",
+    "url" : "https://dica-laws.firebaseapp.com/mm/0/index.html"
+  } , {
+    "order" : "45",
+    "date" : "19/2/17",
+    "id" : 23,
+    "title" : "Cost of Doing Business Survey Report (2017)",
+    "type" : "Report",
+    "url" : "https://dica-laws.firebaseapp.com/mm/0/index.html"
+  } , {
+    "order" : "46",
+    "date" : "1/3/16",
+    "id" : 26,
+    "title" : "PPP Framework",
+    "type" : "Report",
+    "url" : "https://dica-laws.firebaseapp.com/mm/0/index.html"
+  } , {
+    "order" : "47",
+    "date" : "1/1/57",
+    "id" : 17,
+    "title" : "Burma Companies Regulations, 1957",
+    "type" : "Law",
+    "url" : "https://dica-laws.firebaseapp.com/mm/0/index.html"
+  } , {
+    "order" : "48",
+    "date" : "1/1/16",
+    "id" : 52,
+    "title" : "SDG Goals (2016)",
+    "type" : "Report",
+    "url" : "https://dica-laws.firebaseapp.com/mm/0/index.html"
+  } , {
+    "order" : "49",
+    "date" : "1/1/02",
+    "id" : 10,
+    "title" : "WTO (Legal Texts)",
+    "type" : "Law",
+    "url" : "https://dica-laws.firebaseapp.com/mm/0/index.html"
+  } , {
+    "order" : "50",
+    "date" : "1/8/14",
+    "id" : 9,
+    "title" : "OECD Investment Policy Review",
+    "type" : "Report",
+    "url" : "https://dica-laws.firebaseapp.com/mm/0/index.html"
+  } , {
+    "order" : "51",
+    "date" : "14/8/14",
+    "id" : 6,
+    "title" : "Notification No. 49/2014",
+    "type" : "Notification",
+    "url" : "https://dica-laws.firebaseapp.com/mm/0/index.html"
+  } , {
+    "order" : "52",
+    "date" : "14/8/14",
+    "id" : 7,
+    "title" : "Notification No. 50/2014",
+    "type" : "Notification",
+    "url" : "https://dica-laws.firebaseapp.com/mm/0/index.html"
+  } , {
+    "order" : "53",
+    "date" : "19/8/14",
+    "id" : 8,
+    "title" : "Notification No. 51/2014",
+    "type" : "Law",
+    "url" : "https://dica-laws.firebaseapp.com/mm/0/index.html"
+  } , {
+    "order" : "54",
+    "date" : "27/8/15",
+    "id" : 30,
+    "title" : "Special Economic Zone Rule",
+    "type" : "Rule",
+    "url" : "https://dica-laws.firebaseapp.com/mm/0/index.html"
+  } 
+  ],
+  "mmlaws" : [ {
+    "order" : "1",
+    "date" : "29/7/2016",
+    "id" : 9,
+    "title" : "​နိုင်ငံတော်၏ စီးပွားရေးမူဝါဒ",
+    "type" : "Report",
+    "url" : "https://dica-laws.firebaseapp.com/mm/0/index.html"
+  }, {
+    "order" : "2",
+    "date" : "3/8/2016",
+    "id" : 11,
+    "title" : "ရင်းနှီးမြှုပ်နှံမှု မူဝါဒ",
+    "type" : "Report",
     "url" : "https://dica-laws.firebaseapp.com/mm/1/index.html"
   }, {
-    "date" : "14/08/2014",
+    "order" : "3",
+    "date" : "18/10/2016",
     "id" : 2,
-    "title" : "ပြည်ထောင်စုလွှတ်ေတာ်ဉပဒေအမှတ် ၄၀",
-    "type" : "Procedure",
+    "title" : "မြန်မာနိုင်ငံရင်းနှီးမြှုပ်နှံမှုဥပဒေ",
+    "type" : "Law",
     "url" : "https://dica-laws.firebaseio.com/mm/1l/index.html"
   }, {
-    "date" : "14/08/2014",
-    "id" : 3,
-    "title" : "အမိန့်ကြော်ညာစာ အမှတ် ၅၀/၂၀၁၄",
+    "order" : "4",
+    "date" : "30/3/2017",
+    "id" : 44,
+    "title" : "မြန်မာနိုင်ငံရင်းနှီးမြှုပ်နှံမှုနည်းဥပဒေ",
+    "type" : "Rule",
+    "url" : "https://dica-laws.firebaseapp.com/mm/2/index.html"
+  }, {
+    "order" : "5",
+    "date" : "22/2/17",
+    "id" : 49,
+    "title" : "အမိန့်ကြော်ငြာစာအမှတ် (၁၀/၂၀၁၇)",
     "type" : "Notification",
     "url" : "https://dica-laws.firebaseapp.com/mm/2/index.html"
   }, {
-    "date" : "01/10/2014",
-    "id" : 4,
-    "title" : "အမိန့်ကြော်ညာစာ အမှတ် ၈၁/၂၀၁၄",
-    "type" : "Law",
-    "url" : "https://dica-laws.firebaseapp.com/mm/2l/index.html"
+   "order" : "6",
+    "date" : "3/3/2017",
+    "id" : 50,
+    "title" : "အမိန့်ကြော်ငြာစာအမှတ် (၁၁/၂၀၁၇)",
+    "type" : "Notification",
+    "url" : "https://dica-laws.firebaseapp.com/mm/2/index.html"
   }, {
-    "date" : "01/08/2014",
+    "order" : "7",
+    "date" : "1/4/2017",
+    "id" : 45,
+    "title" : "အမိန့်ကြော်ငြာစာအမှတ် (၁၃/၂၀၁၇)",
+    "type" : "Notification",
+    "url" : "https://dica-laws.firebaseapp.com/mm/2/index.html"
+  }, {
+   "order" : "8",
+    "date" : "10/4/17",
+    "id" : 48,
+    "title" : "အမိန့်ကြော်ငြာစာအမှတ် (၁၅/၂၀၁၇)",
+    "type" : "Notification",
+    "url" : "https://dica-laws.firebaseapp.com/mm/2/index.html"
+  }, {
+   "order" : "9",
+    "date" : "",
+    "id" : 37,
+    "title" : "ပုံစံ (၁)",
+    "type" : "",
+    "url" : "https://dica-laws.firebaseapp.com/mm/2/index.html"
+  }, {
+   "order" : "10",
+    "date" : "",
+    "id" : 51,
+    "title" : "ပုံစံ (၂)",
+    "type" : "",
+    "url" : "https://dica-laws.firebaseapp.com/mm/2/index.html"
+  }, {
+    "order" : "11",
+    "date" : "",
+    "id" : 52,
+    "title" : "ပုံစံ (၂)",
+    "type" : "",
+    "url" : "https://dica-laws.firebaseapp.com/mm/2/index.html"
+  }, {
+  "order" : "12",
+    "date" : "",
+    "id" : 53,
+    "title" : "ပုံစံ (၄ - က)",
+    "type" : "",
+    "url" : "https://dica-laws.firebaseapp.com/mm/2/index.html"
+  }, {
+    "order" : "13",
+    "date" : "",
+    "id" : 38,
+    "title" : "ပုံစံ (၄- ခ)",
+    "type" : "",
+    "url" : "https://dica-laws.firebaseapp.com/mm/2/index.html"
+  }, {
+  "order" : "14",
+    "date" : "",
+    "id" :54,
+    "title" : "ပုံစံ (၅ - က)",
+    "type" : "",
+    "url" : "https://dica-laws.firebaseapp.com/mm/2/index.html"
+  }, {
+   "order" : "15",
+    "date" : "",
+    "id" : 39,
+    "title" : "ပုံစံ (၅ - ခ)",
+    "type" : "",
+    "url" : "https://dica-laws.firebaseapp.com/mm/2/index.html"
+  }, {
+   "order" : "16",
+    "date" : "",
+    "id" : 55,
+    "title" : "ပုံစံ (၆)",
+    "type" : "",
+    "url" : "https://dica-laws.firebaseapp.com/mm/2/index.html"
+  }, {
+   "order" : "17",
+    "date" : "",
+    "id" : 56,
+    "title" : "ပုံစံ (၇ -က )",
+    "type" : "",
+    "url" : "https://dica-laws.firebaseapp.com/mm/2/index.html"
+  }, {
+   "order" : "18",
+    "date" : "",
+    "id" : 40,
+    "title" : "ပုံစံ (၇- ခ)",
+    "type" : "",
+    "url" : "https://dica-laws.firebaseapp.com/mm/2/index.html"
+  }, {
+   "order" : "19",
+    "date" : "",
+    "id" :57,
+    "title" : "ပုံစံ (၈)",
+    "type" : "",
+    "url" : "https://dica-laws.firebaseapp.com/mm/2/index.html"
+  }, {
+   "order" : "20",
+    "date" : "",
+    "id" : 41,
+    "title" : "ပုံစံ (၉)",
+    "type" : "",
+    "url" : "https://dica-laws.firebaseapp.com/mm/2/index.html"
+  }, {
+   "order" : "21",
+    "date" : "",
+    "id" : 58,
+    "title" : "ပုံစံ (၁၀)",
+    "type" : "",
+    "url" : "https://dica-laws.firebaseapp.com/mm/2/index.html"
+  }, {
+   "order" : "22",
+    "date" : "",
+    "id" : 59,
+    "title" : "ပုံစံ (၁၁)",
+    "type" : "",
+    "url" : "https://dica-laws.firebaseapp.com/mm/2/index.html"
+  }, {
+   "order" : "23",
+    "date" : "",
+    "id" : 60,
+    "title" : "ပုံစံ (၁၂- က)",
+    "type" : "",
+    "url" : "https://dica-laws.firebaseapp.com/mm/2/index.html"
+  }, {
+   "order" : "24",
+    "date" : "",
+    "id" :42,
+    "title" : "ပုံစံ (၁၂ - ခ)",
+    "type" : "",
+    "url" : "https://dica-laws.firebaseapp.com/mm/2/index.html"
+  }, {
+   "order" : "25",
+    "date" : "",
+    "id" : 61,
+    "title" : "ပုံစံ (၁၃)",
+    "type" : "",
+    "url" : "https://dica-laws.firebaseapp.com/mm/2/index.html"
+  }, {
+   "order" : "26",
+    "date" : "",
+    "id" : 62,
+    "title" : "ပုံစံ (၁၄)",
+    "type" : "",
+    "url" : "https://dica-laws.firebaseapp.com/mm/2/index.html"
+  }, {
+   "order" : "27",
+    "date" : "",
+    "id" : 47,
+    "title" : "ဝန်ဆောင်မှုနှုန်းထားများ",
+    "type" : "Information",
+    "url" : "https://dica-laws.firebaseapp.com/mm/2/index.html"
+  }, {
+   "order" : "28",
+    "date" : "8/3/13",
     "id" : 5,
-    "title" : "အမိန့်ကြော်ညာစာ အမှတ် ၅၁/၂၀၁၄",
-    "type" : "Notification",
-    "url" : "https://dica-laws.firebaseapp.com/mm/3/index.html"
+    "title" : "နိုင်ငံ့ဝန်ထမ်းဥပဒေ",
+    "type" : "Law",
+    "url" : "https://dica-laws.firebaseapp.com/mm/2/index.html"
   }, {
-    "date" : "14/08/2014",
-    "id" : 6,
-    "title" : "ပြည်ထောင်စုလွှတ်ေတာ်ဉပဒေအမှတ် ၄၀",
-    "type" : "Procedure",
-    "url" : "https://dica-laws.firebaseio.com/mm/3l/index.html"
-  }, {
-    "date" : "14/08/2014",
+   "order" : "29",
+    "date" : "26/3/14",
     "id" : 7,
-    "title" : "အမိန့်ကြော်ညာစာ အမှတ် ၅၀/၂၀၁၄",
-    "type" : "Notification",
-    "url" : "https://dica-laws.firebaseapp.com/mm/4/index.html"
+    "title" : "နိုင်ငံ့ဝန်ထမ်းနည်းဥပဒေ",
+    "type" : "Rule",
+    "url" : "https://dica-laws.firebaseapp.com/mm/2/index.html"
   }, {
-    "date" : "01/10/2014",
-    "id" : 8,
-    "title" : "အမိန့်ကြော်ညာစာ အမှတ် ၈၁/၂၀၁၄",
+   "order" : "30",
+    "date" : "",
+    "id" : 63,
+    "title" : "ပြည်ထောင်စုသမ္မတမြန်မာနိုင်ငံတော် ဖွဲ့စည်းပုံအခြေခံ ဥပဒေ",
+    "type" : "",
+    "url" : "https://dica-laws.firebaseapp.com/mm/2/index.html"
+  }, {
+   "order" : "31",
+    "date" : "22/7/15",
+    "id" : 34,
+    "title" : "ပြည်ထောင်စုသမ္မတမြန်မာနိုင်ငံတော် ဖွဲ့စည်းပုံအခြေခံ ဥပဒေကို ြင်ဆင်သည့်ဥပဒေ",
     "type" : "Law",
-    "url" : "https://dica-laws.firebaseapp.com/mm/4l/index.html"
+    "url" : "https://dica-laws.firebaseapp.com/mm/2/index.html"
   }, {
-    "date" : "01/08/2014",
-    "id" : 9,
-    "title" : "အမိန့်ကြော်ညာစာ အမှတ် ၅၁/၂၀၁၄",
-    "type" : "Notification",
-    "url" : "https://dica-laws.firebaseapp.com/mm/5/index.html"
+   "order" : "32",
+    "date" : "",
+    "id" : 46,
+    "title" : "နှစ်နိုင်ငံအကာအကွယ်ရေးရေးသဘောတူစာချုပ်များ",
+    "type" : "Information",
+    "url" : "https://dica-laws.firebaseapp.com/mm/2/index.html"
   }, {
-    "date" : "14/08/2014",
+   "order" : "33",
+    "date" : "1/3/14",
     "id" : 10,
-    "title" : "ပြည်ထောင်စုလွှတ်ေတာ်ဉပဒေအမှတ် ၄၀",
-    "type" : "Procedure",
-    "url" : "https://dica-laws.firebaseio.com/mm/5l/index.html"
+    "title" : "ကာလရှည်နိုင်ငံခြားတိုက်ရိုက်ရင်းနှီးမြှုပ်နှံမှု မြှင့်တင်ရေးစီမံကိန်း",
+    "type" : "Information",
+    "url" : "https://dica-laws.firebaseapp.com/mm/2/index.html"
   }, {
-    "date" : "14/08/2014",
-    "id" : 11,
-    "title" : "အမိန့်ကြော်ညာစာ အမှတ် ၅၀/၂၀၁၄",
-    "type" : "Notification",
-    "url" : "https://dica-laws.firebaseapp.com/mm/6/index.html"
+   "order" : "34",
+    "date" : "1/3/14",
+    "id" : 22,
+    "title" : "ကုန်သွယ်ရေး မူဝါဒ ဆန်းစစ်ခြင်း",
+    "type" : "Information",
+    "url" : "https://dica-laws.firebaseapp.com/mm/2/index.html"
   }, {
-    "date" : "01/10/2014",
+   "order" : "35",
+    "date" : "2/3/14",
+    "id" : 23,
+    "title" : "ကမ္ဘာ့ကုန်သွယ်ရေးအဖွဲ့၏ သဘောတူညီချက်များ",
+    "type" : "Information",
+    "url" : "https://dica-laws.firebaseapp.com/mm/2/index.html"
+  }, {
+   "order" : "36",
+    "date" : "5/3/14",
+    "id" : 26,
+    "title" : "မြန်မာ့ဘက်စုံဖွံ့ဖြိုးရေးမျှော်မှန်းချက်",
+    "type" : "Information",
+    "url" : "https://dica-laws.firebaseapp.com/mm/2/index.html"
+  }, {
+   "order" : "37",
+    "date" : "3/3/14",
+    "id" : 24,
+    "title" : "ရင်းနှီးမြှုပ်နှံမှုနှင့် ကုမ္ပဏီများညွှန်ကြားမှုဦးစီးဌာန",
+    "type" : "Information",
+    "url" : "https://dica-laws.firebaseapp.com/mm/2/index.html"
+  }, {
+   "order" : "38",
+    "date" : "4/3/14",
+    "id" : 25,
+    "title" : "ရင်းနှီးမြှုပ်နှံမှုနှင့် ကုမ္ပဏီများညွှန်ကြားမှုဦးစီးဌာန၏ ပြုပြင်ပြောင်းလဲမှုများ",
+    "type" : "Information",
+    "url" : "https://dica-laws.firebaseapp.com/mm/2/index.html"
+  }, {
+   "order" : "39",
+    "date" : "1/3/16",
+    "id" : 4,
+    "title" : "ပုဂ္ဂလိကကဏ္ဍဖွံ့ဖြိုးရေး မူဘောင်နှင့် လုပ်ငန်း စီမံချက်",
+    "type" : "Information",
+    "url" : "https://dica-laws.firebaseapp.com/mm/2/index.html"
+  }, {
+   "order" : "40",
+    "date" : "",
     "id" : 12,
-    "title" : "အမိန့်ကြော်ညာစာ အမှတ် ၈၁/၂၀၁၄",
+    "title" : "မြန်မာကုမ္ပဏီများ ဥပဒေ(မူကြမ်း)",
     "type" : "Law",
-    "url" : "https://dica-laws.firebaseapp.com/mm/6l/index.html"
+    "url" : "https://dica-laws.firebaseapp.com/mm/2/index.html"
   }, {
-    "date" : "01/08/2014",
+   "order" : "41",
+    "date" : "10/11/50",
+    "id" :27,
+    "title" : "အထူးကုမ္ပဏီ အက်ဥပဒေ",
+    "type" : "Law",
+    "url" : "https://dica-laws.firebaseapp.com/mm/2/index.html"
+  }, {
+   "order" : "42",
+    "date" : "2/11/12",
+    "id" : 17,
+    "title" : "နိုင်ငံခြားရင်းနှီးမြှုပ်နှံမှုဥပဒေ",
+    "type" : "Law",
+    "url" : "https://dica-laws.firebaseapp.com/mm/2/index.html"
+  }, {
+   "order" : "43",
+    "date" : "31/1/13",
     "id" : 13,
-    "title" : "အမိန့်ကြော်ညာစာ အမှတ် ၅၁/၂၀၁၄",
+    "title" : "နိုင်ငံခြားရင်းနှီးမြှုပ်နှံမှုနည်းဥပဒေ",
     "type" : "Notification",
-    "url" : "https://dica-laws.firebaseapp.com/mm/7/index.html"
+    "url" : "https://dica-laws.firebaseapp.com/mm/2/index.html"
   }, {
-    "date" : "14/08/2014",
-    "id" : 14,
-    "title" : "ပြည်ထောင်စုလွှတ်ေတာ်ဉပဒေအမှတ် ၄၀",
-    "type" : "Procedure",
-    "url" : "https://dica-laws.firebaseio.com/mm/8/index.html"
-  }, {
-    "date" : "14/08/2014",
-    "id" : 15,
-    "title" : "အမိန့်ကြော်ညာစာ အမှတ် ၅၀/၂၀၁၄",
-    "type" : "Notification",
-    "url" : "https://dica-laws.firebaseapp.com/mm/9/index.html"
-  }, {
-    "date" : "01/10/2014",
-    "id" : 16,
-    "title" : "အမိန့်ကြော်ညာစာ အမှတ် ၈၁/၂၀၁၄",
+   "order" : "44",
+    "date" : "29/7/13",
+    "id" : 18,
+    "title" : "မြန်မာနိုင်ငံသားများ ရင်းနှီးမြှုပ်နှံမှုဥပဒေ",
     "type" : "Law",
-    "url" : "https://dica-laws.firebaseapp.com/mm/10/index.html"
-  } ]
+    "url" : "https://dica-laws.firebaseapp.com/mm/2/index.html"
+  }, {
+   "order" : "45",
+    "date" : "23/1/14",
+    "id" : 15,
+    "title" : "မြန်မာအထူးစီးပွားရေးဇုန် ဥပဒေ",
+    "type" : "Law",
+    "url" : "https://dica-laws.firebaseapp.com/mm/2/index.html"
+  }, {
+   "order" : "46",
+    "date" : "27/8/15",
+    "id" : 21,
+    "title" : "မြန်မာအထူးစီးပွားရေးဇုန် နည်းဥပဒေ",
+    "type" : "Rule",
+    "url" : "https://dica-laws.firebaseapp.com/mm/2/index.html"
+  }, {
+   "order" : "47",
+    "date" : "21/3/16",
+    "id" : 28,
+    "title" : "အမိန့်ကြော်ငြာစာအမှတ် (၂၆/၂၀၁၆)",
+    "type" : "Notification",
+    "url" : "https://dica-laws.firebaseapp.com/mm/2/index.html"
+  }, {
+   "order" : "48",
+    "date" : "28/3/16",
+    "id" : 33,
+    "title" : "အမိန့်ကြော်ငြာစာအမှတ် (၈၆/၂၀၁၆)",
+    "type" : "Notification",
+    "url" : "https://dica-laws.firebaseapp.com/mm/2/index.html"
+  }, {
+   "order" : "49",
+    "date" : "23/12/15",
+    "id" : 36,
+    "title" : "မြန်မာနိုင်ငံသားများရင်းနှီးမြှုပ်နှံမှုဥပဒေကို ပြင်ဆင်သည့် ဥပဒေ",
+    "type" : "Law",
+    "url" : "https://dica-laws.firebaseapp.com/mm/2/index.html"
+  }, {
+   "order" : "50",
+    "date" : "22/12/15",
+    "id" : 35,
+    "title" : "နိုင်ငံခြားရင်းနှီးမြှုပ်နှံမှုဥပဒေကို ပြင်ဆင်သည့် ဥပဒေ",
+    "type" : "Law",
+    "url" : "https://dica-laws.firebaseapp.com/mm/2/index.html"
+  }, {
+   "order" : "51",
+    "date" : "13/3/13",
+    "id" : 20,
+    "title" : "​ကြေညာချက်အမှတ် (၂/၂၀၁၃)",
+    "type" : "Notification",
+    "url" : "https://dica-laws.firebaseapp.com/mm/2/index.html"
+  }, {
+   "order" : "52",
+    "date" : "14/8/14",
+    "id" : 43,
+    "title" : "အမိန့်ကြော်ငြာစာအမှတ် (၄၉/၂၀၁၄)",
+    "type" : "Notification",
+    "url" : "https://dica-laws.firebaseapp.com/mm/2/index.html"
+  }, {
+   "order" : "53",
+    "date" : "5/4/13",
+    "id" : 14,
+    "title" : "ညွှန်ကြားချက်အမှတ်(၁/၂၀၁၃)",
+    "type" : "Notification",
+    "url" : "https://dica-laws.firebaseapp.com/mm/2/index.html"
+  }, {
+   "order" : "54",
+    "date" : "14/8/14",
+    "id" :3,
+    "title" : "အမိန့်ကြော်ငြာစာအမှတ် (၅၀/၂၀၁၄)",
+    "type" : "Notification",
+    "url" : "https://dica-laws.firebaseapp.com/mm/2/index.html"
+  }, {
+   "order" : "55",
+    "date" : "",
+    "id" : 0,
+    "title" : "​ကြောညာချက်အမှတ် (၁/၂၀၁၃)",
+    "type" : "Notification",
+    "url" : "https://dica-laws.firebaseapp.com/mm/2/index.html"
+  }, {
+   "order" : "56",
+    "date" : "19/8/14",
+    "id" : 1,
+    "title" : "​ကြောညာချက်အမှတ်(၅၁/၂၀၁၄)",
+    "type" : "Notification",
+    "url" : "https://dica-laws.firebaseapp.com/mm/2/index.html"
+  }, {
+   "order" : "57",
+    "date" : "27/2/12",
+    "id" : 19,
+    "title" : "အမိန့်အမှတ် (၁/၂၀၁၂)",
+    "type" : "Notification",
+    "url" : "https://dica-laws.firebaseapp.com/mm/2/index.html"
+  }, {
+   "order" : "58",
+    "date" : "1/10/14",
+    "id" :6,
+    "title" : "အမိန့်ကြော်ငြာစာအမှတ် (၈၁/၂၀၁၄)",
+    "type" : "Notification",
+    "url" : "https://dica-laws.firebaseapp.com/mm/2/index.html"
+  }, {
+   "order" : "59",
+    "date" : "3/10/14",
+    "id" : 8,
+    "title" : "အမိန့်ကြော်ငြာစာအမှတ် (၅၉/၂၀၁၄)",
+    "type" : "Notification",
+    "url" : "https://dica-laws.firebaseapp.com/mm/2/index.html"
+  }, {
+   "order" : "60",
+    "date" : "17/7/15",
+    "id" : 16,
+    "title" : "အမိန့်ကြော်ငြာစာအမှတ် (၆၂/၂၀၁၅)",
+    "type" : "Notification",
+    "url" : "https://dica-laws.firebaseapp.com/mm/2/index.html"
+  }
+   ]
 }
