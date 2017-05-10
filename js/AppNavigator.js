@@ -12,9 +12,9 @@ import { closeDrawer } from './actions/drawer';
 
 import Home from './components/home/';
 import Myanmar from './components/myanmar/';
-import MyanmarView from './components/myanmar/view';
+import MyanmarView from './components/myanmarview/';
 import English from './components/english/';
-import EnglishView from './components/english/view';
+import EnglishView from './components/englishview/';
 
 import SideBar from './components/sidebar';
 import statusBarColor from './themes/variables';
