@@ -158,16 +158,16 @@ export default {
 
 
     // Header
-  toolbarBtnColor: (platform === 'ios') ? '#007aff' : '#fff',
-  toolbarDefaultBg: (platform === 'ios') ? '#F8F8F8' : '#20D82C',
+  toolbarBtnColor: (platform === 'ios') ? '#fff' : '#fff',
+  toolbarDefaultBg: (platform === 'ios') ? '#20D82C' : '#20D82C',
   toolbarHeight: (platform === 'ios') ? 64 : 56,
   toolbarIconSize: (platform === 'ios') ? 20 : 22,
   toolbarSearchIconSize: (platform === 'ios') ? 20 : 23,
-  toolbarInputColor: (platform === 'ios') ? '#CECDD2' : '#fff',
+  toolbarInputColor: (platform === 'ios') ? '#fff' : '#fff',
   searchBarHeight: (platform === 'ios') ? 30 : 40,
   toolbarInverseBg: '#222',
-  toolbarTextColor: (platform === 'ios') ? '#000' : '#fff',
-  toolbarDefaultBorder: (platform === 'ios') ? '#a7a6ab' : '#20D82C',
+  toolbarTextColor: (platform === 'ios') ? '#fff' : '#fff',
+  toolbarDefaultBorder: (platform === 'ios') ? '#20D82C' : '#20D82C',
   iosStatusbar: (platform === 'ios') ? 'dark-content' : 'light-content',
   get statusBarColor() {
     return color(this.toolbarDefaultBg).darken(0.2).hexString();
